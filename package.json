@@ -1,0 +1,15 @@
+{
+  "name": "assigment1",
+  "version": "1.0.0",
+  "description": "First assigment",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome": "testcafe chrome ./page_model/test"
+  },
+  "author": "Erick Cardona",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "testcafe": "1.12.0"
+  }
+}
